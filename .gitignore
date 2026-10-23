@@ -1,2 +1,7 @@
 .DS_Store
 convert_entities.py
+
+# Universal Dependencies treebanks, cloned separately at pinned commits
+# by the consuming project (oxytone/latin_fjall_db fetch-data.sh).
+/ud-perseus/
+/ud-proiel/
